@@ -11,4 +11,4 @@ And Range is `0x00000000` ~ `0xFFFFFFFF`
   
   
 _How do we complete the conversion from 0x12345678 to 0x78563412?_  
-_The answer is in the main.c_
+_The answer is in the main.c and main.char.c_
